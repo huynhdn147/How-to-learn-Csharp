@@ -1,1 +1,2 @@
-# How-to-learn-C-
+# How-to-learn-Csharp(C#)
+### C# cơ bản

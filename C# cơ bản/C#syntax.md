@@ -1,6 +1,6 @@
 # Các cú pháp của C#  
-### Giải thích các đoạn code
-Trong đoạn mã
+### Giải thích các đoạn code `Heloo World!`
+
 ```
 using System;
 

@@ -1,5 +1,5 @@
-#Tổng quan về C#  
-###C # là gì?  
+# Tổng quan về C#  
+### C # là gì?  
 **C#** được phát âm là "C-Sharp".
 Nó là ngôn ngữ lập trình hướng đối tượng được tạo bởi Microsoft chạy trên .NET Framework.  
 C # có nguồn gốc từ họ C và ngôn ngữ gần với các ngôn ngữ phổ biến khác như C ++ và Java .  

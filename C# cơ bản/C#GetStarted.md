@@ -17,8 +17,8 @@ sau đó ta có thể đặt tên và đường dẫn cho dự án
 Cuối cùng chúng ta có được một dự án như sau
 ![alt text](https://www.w3schools.com/cs/Program.png)
 
-Sang bài sau chúng ta cùng tìm hiểu về các cú pháp và đoạn mã:
-/// 
+Sang bài sau chúng ta cùng tìm hiểu về các cú pháp và đoạn mã:  
+```
 using System;
 
 namespace HelloWorld
@@ -31,5 +31,5 @@ namespace HelloWorld
     }
   }
 }
-\\\
+```
 

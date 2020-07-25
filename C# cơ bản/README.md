@@ -14,4 +14,10 @@ Phiên bản đầu tiên được phát hành vào năm 2002. Phiên bản mớ
   - Trò chơi
   - VR
   - Ứng dụng cơ sở dữ liệu
-   Và nhiều, nhiều hơn nữa!
+   Và nhiều, nhiều hơn nữa!   
+   ### Vì sao nên sử dụng C#
+- C# là một trong những ngôn ngữ lập trình phổ biến nhất trên thế giới
+- Nó rất dễ học và đơn giản để sử dụng
+- Nó có một sự hỗ trợ cộng đồng lớn
+- C # là một ngôn ngữ hướng đối tượng mang lại cấu trúc rõ ràng cho các chương trình và cho phép mã được sử dụng lại, giảm chi phí phát triển.
+- Vì C # gần với C, C ++ và Java , giúp lập trình viên dễ dàng chuyển sang C # hoặc ngược lại

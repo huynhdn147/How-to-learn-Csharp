@@ -17,3 +17,6 @@ Ví dụ:
 myNum = 20;
 ```
 Kết quả sẽ là: 20  
+Tuy nhiên nếu chúng ta muốn có một hằng số. Ta có thể khai báo từ khóa `const ` ở đằng trước như sau `const int myNum = 15;` lúc này myNum sẽ là 15 và không thể thay đổi được  
+**Lưu ý**: Bạn không thể khai báo một biến có chứa từ khóa `const ` mà không gán giá trị. Nếu bạn làm như vậy, sẽ xảy ra lỗi: A const field requires a value to be provided.  
+### Các phép toán với biến  

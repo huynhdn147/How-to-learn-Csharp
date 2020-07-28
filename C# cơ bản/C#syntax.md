@@ -40,11 +40,22 @@ Chú ý: ** Nếu không hiểu using `System`,`namespace` và `class`. Ta nên 
 Sự khác biệt là `WriteLine()`in đầu ra trên một dòng mới mỗi lần, trong khi `Write()`in trên cùng một dòng và liền sau kí tự trước luôn  
 Hai đoạn code sau sẽ thấy được sự khác biệt:  
 ```
-Console.WriteLine("Hello World!");  
-Console.WriteLine("I will print on a new line.");
+using System;
 
-Console.Write("Hello World! ");
-Console.Write("I will print on the same line.");  
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Hello World!");
+      Console.WriteLine("I will print on a new line.");
+
+      Console.Write("Hello World! ");
+      Console.Write("I will print on the same line.");    
+    }
+  }
+}
 ```
 Kết quả:  
 ***Hello World!  

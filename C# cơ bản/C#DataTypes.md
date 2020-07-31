@@ -16,8 +16,9 @@ Kiểu dữ liệu có sẵn là các kiểu dữ liệu phổ biến, được 
 #### Các kiểu dữ liệu số
 Các loại số được chia thành hai nhóm:
 
-Các kiểu số nguyên lưu số nguyên, dương hoặc âm (chẳng hạn như 123 hoặc -456), không có số thập phân. Các loại hợp lệ là int và long. Loại nào bạn nên sử dụng, phụ thuộc vào giá trị số.
+Các kiểu số nguyên lưu số nguyên, dương hoặc âm (chẳng hạn như 123 hoặc -456), không có số thập phân. Các loại hợp lệ là `int` và `long`.tùy vào giá trị số để bạn chọn kiểu dữ kiệu thích hợp.
 
-Các kiểu dấu phẩy động biểu thị các số có một phần phân số, chứa một hoặc nhiều số thập phân. Các loại hợp lệ là float và double.  
+Các kiểu dấu phẩy động biểu thị các số có có dạng số thập phân, chứa một hoặc nhiều số thập phân đằng sau dấu phẩy . Các loại hợp lệ là `float` và `double`.  
+
 
 

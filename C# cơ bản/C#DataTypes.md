@@ -28,6 +28,7 @@ kiểu dữ liệu boolean được khai báo bằng từ khóa `bool`. Trả v�
 Kiểu dữ liệu` char` được dùng để khai báo một kí tự. Và kí tự đó phải được bao quanh bằng dấu ngoặc đơn(''):  
 Ví dụ:  
 `char myGrade = 'B';`  
+
 #### Kiểu dữ liệu String  
 Kiểu dữ liệu `String` được dùng để khai báo một chuỗi kí tự. và được bao quanh bằng dấu ngoặc kép(""):
 Ví dụ:

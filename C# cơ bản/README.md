@@ -21,3 +21,4 @@ Phiên bản đầu tiên được phát hành vào năm 2002. Phiên bản mớ
 - Nó có một sự hỗ trợ cộng đồng lớn
 - C # là một ngôn ngữ hướng đối tượng mang lại cấu trúc rõ ràng cho các chương trình và cho phép mã được sử dụng lại, giảm chi phí phát triển.
 - Vì C # gần với C, C ++ và Java , giúp lập trình viên dễ dàng chuyển sang C # hoặc ngược lại
+[Bài tiếp theo: Hello World](https://github.com/huynhdn147/How-to-learn-Csharp/blob/master/C%23%20c%C6%A1%20b%E1%BA%A3n/C%23GetStarted.md)  

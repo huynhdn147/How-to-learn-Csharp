@@ -30,8 +30,8 @@ Ví dụ:
 `char myGrade = 'B';`  
 
 #### Kiểu dữ liệu String  
-Kiểu dữ liệu `String` được dùng để khai báo một chuỗi kí tự. và được bao quanh bằng dấu ngoặc kép(""):
-Ví dụ:
+Kiểu dữ liệu `String` được dùng để khai báo một chuỗi kí tự. và được bao quanh bằng dấu ngoặc kép(""):  
+Ví dụ:  
 `string greeting = "Hello World";`  
 
 [Bài tiếp theo: Ép kiểu trong C#](https://github.com/huynhdn147/How-to-learn-Csharp/blob/master/C%23%20c%C6%A1%20b%E1%BA%A3n/README.md)

@@ -14,7 +14,7 @@ chọn vào **Console App (.NET Core)** và cài đặt:
 ![alt text](https://www.w3schools.com/cs/Consoleapp.png)  
 sau đó ta có thể đặt tên và đường dẫn cho dự án
 ![alt text](https://www.w3schools.com/cs/saveas.png)  
-Cuối cùng chúng ta có được một dự án như sau
+Cuối cùng hãy gõ một đoạn code sau là ấn F5 để chạy chương trình  
 ![alt text](https://www.w3schools.com/cs/Program.png)
 
 Sang bài sau chúng ta cùng tìm hiểu về các cú pháp và đoạn mã:  

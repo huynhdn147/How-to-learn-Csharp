@@ -40,6 +40,10 @@ class Car
   }
 }
 ```
+Sử dụng nhiều lớp  
+Bạn cũng có thể tạo một đối tượng của một lớp và truy cập nó trong một lớp khác. Điều này thường được sử dụng để tổ chức các lớp tốt hơn (một lớp có tất cả các trường và phương thức, trong khi lớp kia giữ Main() phương thức.
+
+
 
 
 

@@ -5,7 +5,7 @@ Kế thừa trong lập trình hướng đối tượng cho phép người dùng
 ví dụ: ` class Car : Vehicle`  
 ### Tại sao và khi nào nên sử dụng "Kế thừa"?
 Nó rất hữu ích cho khả năng tái sử dụng code: sử dụng lại các trường và phương thức của một lớp cũ cho 1 lớp mới  
-** Chú ý**: Chúng ta dễ nhầm kế thừa với đa hình. Chúng thực hiện các tác vụ khác nhau
+**Chú ý**: Chúng ta dễ nhầm kế thừa với đa hình. Ta sẽ phân biệt ở các bài sau  
 ### Lớp đóng 
 Nếu bạn không muốn các lớp khác kế thừa từ một lớp, hãy sử dụng từ khóa `sealed`  
 Nếu bạn cố truy cập một lớp `sealed` sẽ phát sinh lỗi  
